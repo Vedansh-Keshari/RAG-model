@@ -1,0 +1,808 @@
+"exeid","testcaseid","scripttype","datestamp","exetime","message","output","status"
+"EX0002","TC00011","playwright","2025-11-04","23:41:49.413699","Script executed successfully","Page title verified: Swag Labs
+","SUCCESS"
+"EX0003","TC00011","playwright","2025-11-05","00:33:43.079465","Script executed successfully","Page title verified: Swag Labs
+","SUCCESS"
+"EX0004","TC00011","playwright","2025-11-05","00:52:43.166151","Script executed successfully","Page title verified: Swag Labs
+","SUCCESS"
+"EX0005","TC00011","playwright","2025-11-05","00:54:08.404957","Script executed successfully","Page title verified: Swag Labs
+","SUCCESS"
+"EX0006","TC00011","playwright","2025-11-05","00:55:26.640235","Script executed successfully","Page title verified: Swag Labs
+","SUCCESS"
+"EX0007","TC00011","playwright","2025-11-05","00:58:20.213804","Script executed successfully","Page title verified: Swag Labs
+","SUCCESS"
+"EX0001","TC00011","playwright","2025-11-03","22:25:23","Execution Completed Successfully!","Page title verified: Swag Labs","success"
+"EX0008","TC0013","playwright","2025-11-06","12:13:26.341297","Generated script execution","Initializing script execution
+Executing script...
+Running action: Navigate to the OrangeHRM login page at 2025-11-06 12:13:17.047247
+Action runned: Navigate to the OrangeHRM login page at 2025-11-06 12:13:21.571104
+Running action: Click on 'Forgot your Password?' at 2025-11-06 12:13:21.571132
+Action runned: Click on 'Forgot your Password?' at 2025-11-06 12:13:23.218786
+Running action: Enter username 'Admin' in the username field at 2025-11-06 12:13:23.218816
+Action runned: Enter username 'Admin' in the username field at 2025-11-06 12:13:24.104744
+Running action: Click the 'Reset Password' button at 2025-11-06 12:13:24.104779
+Action runned: Click the 'Reset Password' button at 2025-11-06 12:13:24.152208
+Running action: Verify success message is displayed at 2025-11-06 12:13:24.152240
+Action runned: Verify success message is displayed at 2025-11-06 12:13:25.860800
+TC0013: Test Passed - Password reset link was sent successfully.
+Execution completed successfully","SUCCESS"
+"EX0009","TC0013","playwright","2025-11-06","12:14:12.145431","Generated script execution","Initializing script execution
+Executing script...
+Running action: Navigate to the OrangeHRM login page at 2025-11-06 12:13:59.049691
+Action runned: Navigate to the OrangeHRM login page at 2025-11-06 12:14:03.450579
+Running action: Click on 'Forgot your Password?' at 2025-11-06 12:14:03.450609
+Action runned: Click on 'Forgot your Password?' at 2025-11-06 12:14:08.725930
+Running action: Enter username 'Admin' in the username field at 2025-11-06 12:14:08.725965
+Action runned: Enter username 'Admin' in the username field at 2025-11-06 12:14:09.594699
+Running action: Click the 'Reset Password' button at 2025-11-06 12:14:09.594731
+Action runned: Click the 'Reset Password' button at 2025-11-06 12:14:09.885121
+Running action: Verify success message is displayed at 2025-11-06 12:14:09.885166
+Action runned: Verify success message is displayed at 2025-11-06 12:14:11.625125
+TC0013: Test Passed - Password reset link was sent successfully.
+Execution completed successfully","SUCCESS"
+"EX0010","TC0013","playwright","2025-11-06","12:56:23.395073","Generated script execution","Initializing script execution
+Script file created, starting execution...
+Running action: Navigate to login at 2025-11-06T12:55:18.934788
+Action runned: Navigate to login at 2025-11-06T12:55:20.244993
+Running action: Enter credentials at 2025-11-06T12:55:21.245370
+Action Enter credentials failed at 2025-11-06T12:55:51.257600 due to: Page.fill: Timeout 30000ms exceeded.
+Call log:
+- waiting for locator(""#username"")
+Running action: Submit form at 2025-11-06T12:55:52.258223
+Action Submit form failed at 2025-11-06T12:56:22.268845 due to: Page.click: Timeout 30000ms exceeded.
+Call log:
+- waiting for locator(""button[type=submit]"")
+Test execution completed successfully
+Execution completed successfully","SUCCESS"
+"EX0011","TC0013","playwright","2025-11-06","12:57:24.045823","Generated script execution","Initializing script execution
+Script file created, starting execution...
+Running action: Navigate to the OrangeHRM login page at 2025-11-06 12:57:14.189538
+Action runned: Navigate to the OrangeHRM login page at 2025-11-06 12:57:18.720889
+Running action: Click on 'Forgot your Password?' at 2025-11-06 12:57:18.720917
+Action runned: Click on 'Forgot your Password?' at 2025-11-06 12:57:20.282578
+Running action: Enter username 'Admin' in the username field at 2025-11-06 12:57:20.282606
+Action runned: Enter username 'Admin' in the username field at 2025-11-06 12:57:21.165437
+Running action: Click the 'Reset Password' button at 2025-11-06 12:57:21.165468
+Action runned: Click the 'Reset Password' button at 2025-11-06 12:57:21.201263
+Running action: Verify success message is displayed at 2025-11-06 12:57:21.201313
+Action runned: Verify success message is displayed at 2025-11-06 12:57:22.947167
+TC0013: Test Passed - Password reset link was sent successfully.
+Execution completed successfully","SUCCESS"
+"EX0012","TC0013","playwright","2025-11-06","12:58:04.04951","Generated script execution","Initializing script execution
+Script file created, starting execution...
+Running action: Navigate to the OrangeHRM login page at 2025-11-06 12:57:55.011331
+Action runned: Navigate to the OrangeHRM login page at 2025-11-06 12:57:58.394798
+Running action: Click on 'Forgot your Password?' at 2025-11-06 12:57:58.394842
+Action runned: Click on 'Forgot your Password?' at 2025-11-06 12:58:00.143205
+Running action: Enter username 'Admin' in the username field at 2025-11-06 12:58:00.143255
+Action runned: Enter username 'Admin' in the username field at 2025-11-06 12:58:01.017402
+Running action: Click the 'Reset Password' button at 2025-11-06 12:58:01.017443
+Action runned: Click the 'Reset Password' button at 2025-11-06 12:58:01.058923
+Running action: Verify success message is displayed at 2025-11-06 12:58:01.058961
+Action runned: Verify success message is displayed at 2025-11-06 12:58:02.928290
+TC0013: Test Passed - Password reset link was sent successfully.
+Execution completed successfully","SUCCESS"
+"EX0013","TC0013","playwright","2025-11-06","13:49:49.401268","Generated script execution","Initializing script execution
+Script file created, starting execution...
+Running action: Navigate to the OrangeHRM login page at 2025-11-06 13:49:35.652642
+Action runned: Navigate to the OrangeHRM login page at 2025-11-06 13:49:42.467559
+Running action: Click on 'Forgot your Password?' at 2025-11-06 13:49:42.467587
+Action runned: Click on 'Forgot your Password?' at 2025-11-06 13:49:44.479645
+Running action: Enter username 'Admin' in the username field at 2025-11-06 13:49:44.479674
+Action runned: Enter username 'Admin' in the username field at 2025-11-06 13:49:45.395179
+Running action: Click the 'Reset Password' button at 2025-11-06 13:49:45.395209
+Action runned: Click the 'Reset Password' button at 2025-11-06 13:49:45.431516
+Running action: Verify success message is displayed at 2025-11-06 13:49:45.431545
+Action runned: Verify success message is displayed at 2025-11-06 13:49:47.471521
+TC0013: Test Passed - Password reset link was sent successfully.
+Execution completed successfully","SUCCESS"
+"EX0014","TC0013","playwright","2025-11-06","13:51:34.959276","Generated script execution","Initializing script execution
+Script file created, starting execution...
+Running action: Navigate to the OrangeHRM login page at 2025-11-06 13:51:22.016374
+Action runned: Navigate to the OrangeHRM login page at 2025-11-06 13:51:26.920386
+Running action: Click on 'Forgot your Password?' at 2025-11-06 13:51:26.920415
+Action runned: Click on 'Forgot your Password?' at 2025-11-06 13:51:30.062070
+Running action: Enter username 'Admin' in the username field at 2025-11-06 13:51:30.062099
+Action runned: Enter username 'Admin' in the username field at 2025-11-06 13:51:30.960324
+Running action: Click the 'Reset Password' button at 2025-11-06 13:51:30.960357
+Action runned: Click the 'Reset Password' button at 2025-11-06 13:51:30.993357
+Running action: Verify success message is displayed at 2025-11-06 13:51:30.993385
+Action runned: Verify success message is displayed at 2025-11-06 13:51:33.020625
+TC0013: Test Passed - Password reset link was sent successfully.
+Execution completed successfully","SUCCESS"
+"EX0015","TC0012","playwright","2025-11-07","10:31:31.16051","Generated script execution","Initializing script execution
+Script file created, starting execution...
+Execution completed successfully","SUCCESS"
+"EX0016","TC0013","playwright","2025-11-07","10:32:38.81551","Generated script execution","Initializing script execution
+Script file created, starting execution...
+Running action: Navigate to login page at 2025-11-07 10:32:29.368707
+Action runned: Navigate to login page at 2025-11-07 10:32:33.271822
+Running action: Click on 'Forgot your Password?' at 2025-11-07 10:32:33.271841
+Action runned: Click on 'Forgot your Password?' at 2025-11-07 10:32:34.880850
+Running action: Enter username at 2025-11-07 10:32:34.880866
+Action runned: Enter username at 2025-11-07 10:32:35.776808
+Running action: Click the 'Reset Password' button at 2025-11-07 10:32:35.776837
+Action runned: Click the 'Reset Password' button at 2025-11-07 10:32:35.819705
+Running action: Verify password reset success message at 2025-11-07 10:32:35.819720
+Action runned: Verify password reset success message at 2025-11-07 10:32:37.681548
+Execution completed successfully","SUCCESS"
+"EX0017","TC0011","playwright","2025-11-15","01:01:46.889681","[AUTO-HEALED] Script executed successfully after self-healing","Running action: Navigate to login page at 2025-11-15 01:01:38
+Action runned: Navigate to login page at 2025-11-15 01:01:42
+Running action: Enter username at 2025-11-15 01:01:42
+Action runned: Enter username at 2025-11-15 01:01:43
+Running action: Enter password at 2025-11-15 01:01:43
+Action runned: Enter password at 2025-11-15 01:01:43
+Running action: Submit form at 2025-11-15 01:01:43
+Action runned: Submit form at 2025-11-15 01:01:43
+Running action: Verify redirection to dashboard at 2025-11-15 01:01:43
+Action runned: Verify redirection to dashboard at 2025-11-15 01:01:45
+Test Case TC0011 Passed!
+","SUCCESS"
+"EX0018","TC0011","playwright","2025-11-15","01:05:25.49524","[AUTO-HEALED] Script executed successfully after self-healing","Test TC0011 started at 2025-11-15 01:05:12.752245
+Running action: Navigate to login page at 2025-11-15 01:05:12.752270
+Action runned: Navigate to login page at 2025-11-15 01:05:22.004949
+Running action: Enter username at 2025-11-15 01:05:22.004988
+Action runned: Enter username at 2025-11-15 01:05:22.087341
+Running action: Enter password at 2025-11-15 01:05:22.087362
+Action runned: Enter password at 2025-11-15 01:05:22.097957
+Running action: Click login button at 2025-11-15 01:05:22.097985
+Action runned: Click login button at 2025-11-15 01:05:23.318261
+Running action: Verify redirection to dashboard at 2025-11-15 01:05:23.318320
+Action runned: Verify redirection to dashboard at 2025-11-15 01:05:23.394626
+
+Test finished and browser closed at 2025-11-15 01:05:24.496759
+","SUCCESS"
+"EX0019","TC0011","playwright","2025-11-15","01:12:49.618178","[AUTO-HEALED] Script executed successfully after self-healing","Running action: Given the user is on the OrangeHRM login page at 2025-11-15 01:12:41.497678
+Action runned: Given the user is on the OrangeHRM login page at 2025-11-15 01:12:46.186694
+Running action: When the user enters the username at 2025-11-15 01:12:46.186718
+Action runned: When the user enters the username at 2025-11-15 01:12:47.091496
+Running action: And the user enters the password at 2025-11-15 01:12:47.091518
+Action runned: And the user enters the password at 2025-11-15 01:12:47.117839
+Running action: And clicks the login button at 2025-11-15 01:12:47.117862
+Action runned: And clicks the login button at 2025-11-15 01:12:47.164179
+Running action: Then the user should be redirected to the dashboard at 2025-11-15 01:12:47.164198
+Action runned: Then the user should be redirected to the dashboard at 2025-11-15 01:12:48.836616
+","SUCCESS"
+"EX0020","TC0011","playwright","2025-11-15","01:24:22.269879","[AUTO-HEALED] Script executed successfully after self-healing","--- Starting test case TC0011 at 2025-11-15 01:24:10 ---
+Running action: Navigate to login at 2025-11-15 01:24:10
+Action runned: Navigate to login at 2025-11-15 01:24:18
+Running action: Enter credentials at 2025-11-15 01:24:18
+Action runned: Enter credentials at 2025-11-15 01:24:19
+Running action: Submit form at 2025-11-15 01:24:19
+Action runned: Submit form at 2025-11-15 01:24:19
+Running action: Verify redirection to the dashboard at 2025-11-15 01:24:19
+Successfully redirected to the dashboard.
+Action runned: Verify redirection to the dashboard at 2025-11-15 01:24:20
+--- Test case TC0011 finished at 2025-11-15 01:24:21 ---
+","SUCCESS"
+"EX0021","TC0011","playwright","2025-11-15","09:52:56.216914","[AUTO-HEALED] Script executed successfully after self-healing","Running action: Navigate to login at 2025-11-15 09:52:47.934951
+Action runned: Navigate to login at 2025-11-15 09:52:52.641674
+Running action: Enter username at 2025-11-15 09:52:52.641693
+Action runned: Enter username at 2025-11-15 09:52:53.517520
+Running action: Enter password at 2025-11-15 09:52:53.517538
+Action runned: Enter password at 2025-11-15 09:52:53.530104
+Running action: Submit form at 2025-11-15 09:52:53.530121
+Action runned: Submit form at 2025-11-15 09:52:53.565547
+Running action: Verify dashboard redirection at 2025-11-15 09:52:53.565562
+Action runned: Verify dashboard redirection at 2025-11-15 09:52:55.413439
+","SUCCESS"
+"EX0022","TC0012","playwright","2025-11-18","01:35:29.433984","Script exited with code 1","  File ""C:\Users\R_TEJA\AppData\Local\Temp\tmpu4vu2hp6.py"", line 1
+    ```python
+    ^
+SyntaxError: invalid syntax
+","FAILED"
+"EX0023","TC0011","playwright","2025-11-18","01:41:58.645208","Script executed successfully","Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-18 01:41:46
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-18 01:41:52
+Running action: 'When the user enters the username' at 2025-11-18 01:41:52
+Action completed: 'When the user enters the username' at 2025-11-18 01:41:53
+Running action: 'And the user enters the password' at 2025-11-18 01:41:53
+Action completed: 'And the user enters the password' at 2025-11-18 01:41:53
+Running action: 'And clicks the login button' at 2025-11-18 01:41:53
+Action completed: 'And clicks the login button' at 2025-11-18 01:41:53
+Running action: 'Then the user should be redirected to the dashboard' at 2025-11-18 01:41:53
+Action completed: 'Then the user should be redirected to the dashboard' at 2025-11-18 01:41:58
+Test Case TC0011 PASSED
+","SUCCESS"
+"EX0024","TC0011","playwright","2025-11-18","10:20:24.196683","Script executed successfully","Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-18 10:20:09
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-18 10:20:20
+Running action: 'When the user enters the username' at 2025-11-18 10:20:20
+Action completed: 'When the user enters the username' at 2025-11-18 10:20:21
+Running action: 'And the user enters the password' at 2025-11-18 10:20:21
+Action completed: 'And the user enters the password' at 2025-11-18 10:20:21
+Running action: 'And clicks the login button' at 2025-11-18 10:20:21
+Action completed: 'And clicks the login button' at 2025-11-18 10:20:22
+Running action: 'Then the user should be redirected to the dashboard' at 2025-11-18 10:20:22
+Action completed: 'Then the user should be redirected to the dashboard' at 2025-11-18 10:20:23
+Test Case TC0011 PASSED
+","SUCCESS"
+"EX0025","TC0013","playwright","2025-11-18","19:42:50.977103","Script executed successfully","Running action: Navigate to login page at 2025-11-18 19:42:41
+Action completed: Navigate to login page at 2025-11-18 19:42:46
+Running action: Click on 'Forgot your Password?' link at 2025-11-18 19:42:46
+Action completed: Click on 'Forgot your Password?' link at 2025-11-18 19:42:48
+Running action: Enter username for password reset at 2025-11-18 19:42:48
+Action completed: Enter username for password reset at 2025-11-18 19:42:48
+Running action: Click 'Reset Password' button at 2025-11-18 19:42:48
+Action completed: Click 'Reset Password' button at 2025-11-18 19:42:48
+Running action: Verify password reset link sent successfully message at 2025-11-18 19:42:48
+Successfully verified the confirmation message.
+Action completed: Verify password reset link sent successfully message at 2025-11-18 19:42:50
+Test Case TC0013 PASSED successfully.
+","SUCCESS"
+"EX0026","TC0011","playwright","2025-11-19","11:09:18.250955","Script executed successfully","Running action: Given the user is on the OrangeHRM login page at 2025-11-19 11:09:07
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-19 11:09:14
+Running action: When the user enters the username at 2025-11-19 11:09:14
+Action completed: When the user enters the username at 2025-11-19 11:09:15
+Running action: And the user enters the password at 2025-11-19 11:09:15
+Action completed: And the user enters the password at 2025-11-19 11:09:15
+Running action: And clicks the login button at 2025-11-19 11:09:15
+Action completed: And clicks the login button at 2025-11-19 11:09:16
+Running action: Then the user should be redirected to the dashboard at 2025-11-19 11:09:16
+Action completed: Then the user should be redirected to the dashboard at 2025-11-19 11:09:17
+Test Case TC0011 PASSED
+","SUCCESS"
+"EX0027","TC0011","playwright","2025-11-19","11:23:13.193625","Script executed successfully","Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-19 11:23:04
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-19 11:23:09
+Running action: 'When the user enters the username' at 2025-11-19 11:23:09
+Action completed: 'When the user enters the username' at 2025-11-19 11:23:10
+Running action: 'And the user enters the password' at 2025-11-19 11:23:10
+Action completed: 'And the user enters the password' at 2025-11-19 11:23:10
+Running action: 'And clicks the login button' at 2025-11-19 11:23:10
+Action completed: 'And clicks the login button' at 2025-11-19 11:23:10
+Running action: 'Then the user should be redirected to the dashboard' at 2025-11-19 11:23:10
+Successfully logged in and redirected to the dashboard.
+Action completed: 'Then the user should be redirected to the dashboard' at 2025-11-19 11:23:12
+Test script for TC0011 finished at 2025-11-19 11:23:12
+","SUCCESS"
+"EX0028","TC0013","playwright","2025-11-19","11:51:35.905214","Script executed successfully","--- Starting Test Case: TC0013 ---
+Running action: Given the user is on the OrangeHRM login page at 2025-11-19 11:51:15
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-19 11:51:26
+Running action: When the user clicks on 'Forgot your Password?' at 2025-11-19 11:51:26
+Action completed: When the user clicks on 'Forgot your Password?' at 2025-11-19 11:51:28
+Running action: And enters their username at 2025-11-19 11:51:28
+Action completed: And enters their username at 2025-11-19 11:51:32
+Running action: And clicks the 'Reset Password' button at 2025-11-19 11:51:32
+Action completed: And clicks the 'Reset Password' button at 2025-11-19 11:51:33
+Running action: Then a password reset link should be sent successfully at 2025-11-19 11:51:33
+Assertion successful: Success message is visible with the correct text.
+Action completed: Then a password reset link should be sent successfully at 2025-11-19 11:51:34
+--- Test Case TC0013 Passed Successfully ---
+Browser closed at 2025-11-19 11:51:35.
+--- Finished Test Case: TC0013 ---
+","SUCCESS"
+"EX0029","TC0011","playwright","2025-11-19","11:59:56.285777","Script exited with code 1","Starting test script for TC0011...
+Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-19 11:59:40
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-19 11:59:44
+Running action: 'When the user enters the username' at 2025-11-19 11:59:44
+Action completed: 'When the user enters the username' at 2025-11-19 11:59:44
+Running action: 'And the user enters the password' at 2025-11-19 11:59:44
+Action completed: 'And the user enters the password' at 2025-11-19 11:59:44
+Running action: 'And clicks the login button' at 2025-11-19 11:59:44
+Action completed: 'And clicks the login button' at 2025-11-19 11:59:44
+Running action: 'Then the user should be redirected to the dashboard' at 2025-11-19 11:59:44
+Browser closed.
+Traceback (most recent call last):
+  File ""C:\Users\R_TEJA\AppData\Local\Temp\tmp75jidyzu.py"", line 107, in <module>
+    run_test_tc0011(playwright)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File ""C:\Users\R_TEJA\AppData\Local\Temp\tmp75jidyzu.py"", line 88, in run_test_tc0011
+    expect(page).to_have_url(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        ""https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=10000
+        ^^^^^^^^^^^^^
+    )
+    ^
+  File ""C:\Users\R_TEJA\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\sync_api\_generated.py"", line 19086, in to_have_url
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.to_have_url(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            urlOrRegExp=url_or_reg_exp, timeout=timeout, ignoreCase=ignore_case
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File ""C:\Users\R_TEJA\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_sync_base.py"", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File ""C:\Users\R_TEJA\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_assertions.py"", line 145, in to_have_url
+    await self._expect_impl(
+    ...<5 lines>...
+    )
+  File ""C:\Users\R_TEJA\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_assertions.py"", line 83, in _expect_impl
+    raise AssertionError(
+        f""{out_message}\nActual value: {actual} {format_call_log(result.get('log'))}""
+    )
+AssertionError: Page URL expected to be 'https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index'
+Actual value: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+Call log:
+  - Expect ""to_have_url"" with timeout 10000ms
+    2 � unexpected value ""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login""
+    - waiting for"" https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate"" navigation to finish...
+    - navigated to ""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login""
+    10 � unexpected value ""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login""
+","FAILED"
+"EX0030","TC0011","playwright","2025-11-20","02:23:30.570367","Script executed successfully","Running action: Given the user is on the OrangeHRM login page at 2025-11-20T02:23:29.243401
+Action runned: Given the user is on the OrangeHRM login page at 2025-11-20T02:23:29.444274
+Running action: When the user enters the username at 2025-11-20T02:23:29.444336
+Action runned: When the user enters the username at 2025-11-20T02:23:29.644924
+Running action: And the user enters the password at 2025-11-20T02:23:29.644986
+Action runned: And the user enters the password at 2025-11-20T02:23:29.845311
+Running action: And clicks the login button at 2025-11-20T02:23:29.845373
+Action runned: And clicks the login button at 2025-11-20T02:23:30.045723
+Running action: Then the user should be redirected to the dashboard at 2025-11-20T02:23:30.045745
+Action runned: Then the user should be redirected to the dashboard at 2025-11-20T02:23:30.246227","SUCCESS"
+"EX0031","TC0013","playwright","2025-11-20","02:36:40.78523","Script executed successfully","--- Starting Test Case TC0013: Verify Password Reset Functionality ---
+Running action: Given the user is on the OrangeHRM login page at 2025-11-20 02:36:29
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-20 02:36:36
+Running action: When the user clicks on 'Forgot your Password?' at 2025-11-20 02:36:36
+Action completed: When the user clicks on 'Forgot your Password?' at 2025-11-20 02:36:37
+Running action: And enters their username at 2025-11-20 02:36:37
+Action completed: And enters their username at 2025-11-20 02:36:37
+Running action: And clicks the 'Reset Password' button at 2025-11-20 02:36:37
+Action completed: And clicks the 'Reset Password' button at 2025-11-20 02:36:37
+Running action: Then a password reset link should be sent successfully at 2025-11-20 02:36:37
+Verification successful: Found the password reset success message.
+Action completed: Then a password reset link should be sent successfully at 2025-11-20 02:36:39
+Browser closed successfully.
+--- Test Case TC0013 Completed ---
+","SUCCESS"
+"EX0032","TC0011","playwright","2025-11-20","02:37:54.680943","Script executed successfully","--- Starting Test Case TC0011 ---
+Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-20 02:37:47
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-20 02:37:51
+Running action: 'When the user enters the username' at 2025-11-20 02:37:51
+Action completed: 'When the user enters the username' at 2025-11-20 02:37:52
+Running action: 'And the user enters the password' at 2025-11-20 02:37:52
+Action completed: 'And the user enters the password' at 2025-11-20 02:37:52
+Running action: 'And clicks the login button' at 2025-11-20 02:37:52
+Action completed: 'And clicks the login button' at 2025-11-20 02:37:52
+Running action: 'Then the user should be redirected to the dashboard' at 2025-11-20 02:37:52
+Action completed: 'Then the user should be redirected to the dashboard' at 2025-11-20 02:37:53
+--- Test Case TC0011 PASSED ---
+--- Test Execution Finished for TC0011 ---
+","SUCCESS"
+"EX0033","TC0013","playwright","2025-11-20","02:38:56.353815","Script executed successfully","--- Starting Test Case TC0013 ---
+Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-20_02-38-46
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-20_02-38-52
+Running action: 'When the user clicks on 'Forgot your Password?'' at 2025-11-20_02-38-52
+Action completed: 'When the user clicks on 'Forgot your Password?'' at 2025-11-20_02-38-53
+Running action: 'And enters their username' at 2025-11-20_02-38-53
+Action completed: 'And enters their username' at 2025-11-20_02-38-53
+Running action: 'And clicks the 'Reset Password' button' at 2025-11-20_02-38-53
+Action completed: 'And clicks the 'Reset Password' button' at 2025-11-20_02-38-53
+Running action: 'Then a password reset link should be sent successfully' at 2025-11-20_02-38-53
+Verification successful: Reset password link sent message is visible.
+Action completed: 'Then a password reset link should be sent successfully' at 2025-11-20_02-38-55
+--- Test Case TC0013 PASSED ---
+","SUCCESS"
+"EX0034","TC0011","playwright","2025-11-20","10:10:50.873051","Script exited with code 1","--- Starting Test Case: TC0011 ---
+Running action: Given the user is on the OrangeHRM login page at 2025-11-20 10:10:40
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-20 10:10:47
+Running action: When the user enters the username at 2025-11-20 10:10:47
+Action completed: When the user enters the username at 2025-11-20 10:10:48
+Running action: And the user enters the password at 2025-11-20 10:10:48
+Action completed: And the user enters the password at 2025-11-20 10:10:48
+Running action: And clicks the login button at 2025-11-20 10:10:48
+Action completed: And clicks the login button at 2025-11-20 10:10:48
+Running action: Then the user should be redirected to the dashboard at 2025-11-20 10:10:48
+Action 'Then the user should be redirected to the dashboard' failed at 2025-11-20 10:10:48 due to: value must be a string or regular expression
+Screenshot saved to: test-results\TC0011\failure_20251120_101048.png
+DOM snapshot saved to: test-results\TC0011\failure_dom_20251120_101048.html
+Browser closed.
+","FAILED"
+"EX0035","TC0012","playwright","2025-11-20","10:12:36.61011","Script executed successfully","--- Starting Test Case TC0012 ---
+Running action: Navigate to OrangeHRM login page at 2025-11-20 10:12:29
+Action completed: Navigate to OrangeHRM login page at 2025-11-20 10:12:33
+Running action: Enter invalid username at 2025-11-20 10:12:33
+Action completed: Enter invalid username at 2025-11-20 10:12:33
+Running action: Enter dummy password at 2025-11-20 10:12:33
+Action completed: Enter dummy password at 2025-11-20 10:12:33
+Running action: Click login button at 2025-11-20 10:12:33
+Action completed: Click login button at 2025-11-20 10:12:33
+Running action: Verify 'Invalid credentials' error message is displayed at 2025-11-20 10:12:33
+Action completed: Verify 'Invalid credentials' error message is displayed at 2025-11-20 10:12:35
+--- Test Case TC0012 Passed ---
+","SUCCESS"
+"EX0036","TC0011","playwright","2025-11-20","16:40:31.501707","Script executed successfully","","SUCCESS"
+"EX0037","TC0011","playwright","2025-11-20","16:41:31.43169","Script executed successfully","","SUCCESS"
+"EX0038","TC0011","playwright","2025-11-20","16:57:06.750706","Script executed successfully","[2025-11-20 16:56:54] STARTING STEP 1: Given the user is on the OrangeHRM login page
+[2025-11-20 16:56:59] COMPLETED STEP 1: Navigated to login page.
+[2025-11-20 16:56:59] STARTING STEP 2: When the user enters the username
+[2025-11-20 16:57:00] COMPLETED STEP 2: Entered username.
+[2025-11-20 16:57:00] STARTING STEP 3: And the user enters the password
+[2025-11-20 16:57:00] COMPLETED STEP 3: Entered password.
+[2025-11-20 16:57:00] STARTING STEP 4: And clicks the login button
+[2025-11-20 16:57:00] COMPLETED STEP 4: Clicked login button.
+[2025-11-20 16:57:00] STARTING STEP 5: Then the user should be redirected to the dashboard
+[2025-11-20 16:57:05] COMPLETED STEP 5: Redirected to the dashboard successfully.
+[2025-11-20 16:57:05] Test Case TC0011 Execution Summary:
+[2025-11-20 16:57:05] STATUS: PASSED
+","SUCCESS"
+"EX0039","TC0011","playwright","2025-11-20","17:15:58.088758","Script executed successfully","","SUCCESS"
+"EX0040","TC0011","playwright","2025-11-20","17:18:02.5278","Script executed successfully","","SUCCESS"
+"EX0041","TC0011","playwright","2025-11-20","17:49:47.515726","Script executed successfully","","SUCCESS"
+"EX0042","TC0011","playwright","2025-11-20","17:56:27.762521","Script executed successfully","","SUCCESS"
+"EX0043","TC0012","playwright","2025-11-20","17:57:28.140958","Script executed successfully","","SUCCESS"
+"EX0044","TC0011","playwright","2025-11-20","22:35:36.362247","Script executed successfully","Running action: Given the user is on the OrangeHRM login page at 2025-11-20 22:35:29.440084
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-20 22:35:33.182205
+Running action: When the user enters the username at 2025-11-20 22:35:33.182240
+Action completed: When the user enters the username at 2025-11-20 22:35:33.645717
+Running action: And the user enters the password at 2025-11-20 22:35:33.645754
+Action completed: And the user enters the password at 2025-11-20 22:35:33.658890
+Running action: And clicks the login button at 2025-11-20 22:35:33.658927
+Action completed: And clicks the login button at 2025-11-20 22:35:33.866688
+Running action: Then the user should be redirected to the dashboard at 2025-11-20 22:35:33.866726
+Successfully redirected to the dashboard.
+Action completed: Then the user should be redirected to the dashboard at 2025-11-20 22:35:35.552437
+Test Case TC0011 PASSED
+","SUCCESS"
+"EX0045","TC0011","playwright","2025-11-20","23:23:30.07652","Script executed successfully","--- Starting Test Case: TC0011 ---
+Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-20 23:23:22
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-20 23:23:26
+Running action: 'When the user enters the username' at 2025-11-20 23:23:26
+Action completed: 'When the user enters the username' at 2025-11-20 23:23:27
+Running action: 'And the user enters the password' at 2025-11-20 23:23:27
+Action completed: 'And the user enters the password' at 2025-11-20 23:23:27
+Running action: 'And clicks the login button' at 2025-11-20 23:23:27
+Action completed: 'And clicks the login button' at 2025-11-20 23:23:27
+Running action: 'Then the user should be redirected to the dashboard' at 2025-11-20 23:23:27
+Action completed: 'Then the user should be redirected to the dashboard' at 2025-11-20 23:23:29
+--- Test Case TC0011: PASSED ---
+","SUCCESS"
+"EX0046","TC0011","playwright","2025-11-21","01:01:40.595996","Script exited with code 1","--- Running Test Case TC0011 ---
+Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-21 01:01:05
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-21 01:01:09
+Running action: 'When the user enters the username' at 2025-11-21 01:01:09
+Action 'When the user enters the username' failed at 2025-11-21 01:01:39 due to: Locator.fill: Timeout 30000ms exceeded.
+Screenshot saved to: TC0011_20251121_010139_error.png
+DOM snapshot saved to: TC0011_20251121_010139_error.html
+","FAILED"
+"EX0047","TC0011","playwright","2025-11-21","09:19:21.97761","Script executed successfully","Running action: Given the user is on the OrangeHRM login page at 2025-11-21 09:19:09
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-21 09:19:19
+Running action: When the user enters the username at 2025-11-21 09:19:19
+Action completed: When the user enters the username at 2025-11-21 09:19:19
+Running action: And the user enters the password at 2025-11-21 09:19:19
+Action completed: And the user enters the password at 2025-11-21 09:19:19
+Running action: And clicks the login button at 2025-11-21 09:19:19
+Action completed: And clicks the login button at 2025-11-21 09:19:20
+Running action: Then the user should be redirected to the dashboard at 2025-11-21 09:19:20
+Action completed: Then the user should be redirected to the dashboard at 2025-11-21 09:19:21
+Test TC0011 PASSED
+","SUCCESS"
+"EX0048","TC0009","playwright","2025-11-21","11:29:26.486402","Script executed successfully","Running action: Given the user is on the OrangeHRM login page at 2025-11-21 11:29:08
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-21 11:29:21
+Running action: When the user enters the username at 2025-11-21 11:29:21
+Action completed: When the user enters the username at 2025-11-21 11:29:22
+Running action: And the user enters the password at 2025-11-21 11:29:22
+Action completed: And the user enters the password at 2025-11-21 11:29:22
+Running action: And clicks the login button at 2025-11-21 11:29:22
+Action completed: And clicks the login button at 2025-11-21 11:29:25
+Running action: Then the user should be redirected to the dashboard at 2025-11-21 11:29:25
+Assertion PASSED: User is on the dashboard.
+Action completed: Then the user should be redirected to the dashboard at 2025-11-21 11:29:25
+Test Case TC0009 PASSED successfully.
+","SUCCESS"
+"EX0049","TC0012","playwright","2025-11-23","23:32:50.899942","Script executed successfully","Running action: Given the user is on the OrangeHRM login page at 2025-11-23 23:32:34.550738
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-23 23:32:39.901595
+Running action: When the user enters an invalid username at 2025-11-23 23:32:39.901618
+Action completed: When the user enters an invalid username at 2025-11-23 23:32:39.920301
+Running action: And clicks the login button at 2025-11-23 23:32:39.920319
+Action completed: And clicks the login button at 2025-11-23 23:32:39.957186
+Running action: Then an 'Invalid credentials' error message should be displayed at 2025-11-23 23:32:39.957202
+Action 'Then an 'Invalid credentials' error message should be displayed' failed at 2025-11-23 23:32:49.973056 due to: Locator expected to be visible
+Actual value: <element(s) not found> 
+Call log:
+  - Expect ""to_be_visible"" with timeout 10000ms
+  - waiting for locator(""p.oxd-text.oxd-text--p.oxd-alert-content-text"")
+Saved context: Screenshot at test_artifacts\TC0012\screenshot_20251123_233249.png, DOM at test_artifacts\TC0012\dom_snapshot_20251123_233249.html
+","SUCCESS"
+"EX0050","TC0012","playwright","2025-11-23","23:35:20.505898","Script executed successfully","Test Case TC0012 FAILED.
+Running action: Given the user is on the OrangeHRM login page at 2025-11-23 23:35:06
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-23 23:35:13
+Running action: When the user enters an invalid username at 2025-11-23 23:35:13
+Action completed: When the user enters an invalid username at 2025-11-23 23:35:14
+Running action: And clicks the login button at 2025-11-23 23:35:14
+Action completed: And clicks the login button at 2025-11-23 23:35:14
+Running action: Then an 'Invalid credentials' error message should be displayed at 2025-11-23 23:35:14
+Browser closed.
+","SUCCESS"
+"EX0051","TC0012","playwright","2025-11-24","00:03:05.539851","Script executed successfully","--- Starting Test Case: TC0012 ---
+Running action: 'Navigate to OrangeHRM login page' at 2025-11-24_00-02-58
+Action completed: 'Navigate to OrangeHRM login page' at 2025-11-24_00-03-03
+Running action: 'Enter invalid username' at 2025-11-24_00-03-03
+Action completed: 'Enter invalid username' at 2025-11-24_00-03-03
+Running action: 'Click login button' at 2025-11-24_00-03-03
+Action completed: 'Click login button' at 2025-11-24_00-03-03
+Running action: 'Verify 'Invalid credentials' error message' at 2025-11-24_00-03-03
+Action completed: 'Verify 'Invalid credentials' error message' at 2025-11-24_00-03-04
+Test case TC0012 PASSED!
+Browser closed at 2025-11-24_00-03-05
+--- Test Execution Finished for: TC0012 ---
+","SUCCESS"
+"EX0052","TC0011","playwright","2025-11-24","00:04:11.139465","Script executed successfully","--- Starting Test Case: TC0011 ---
+Running action: Given the user is on the OrangeHRM login page at 2025-11-24 00:03:54.677
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-24 00:03:59.129
+Running action: When the user enters the username at 2025-11-24 00:03:59.130
+Action completed: When the user enters the username at 2025-11-24 00:03:59.143
+Running action: And the user enters the password at 2025-11-24 00:03:59.143
+Action completed: And the user enters the password at 2025-11-24 00:03:59.156
+Running action: And clicks the login button at 2025-11-24 00:03:59.156
+Action completed: And clicks the login button at 2025-11-24 00:04:00.064
+Running action: Then the user should be redirected to the dashboard at 2025-11-24 00:04:00.064
+Action Then the user should be redirected to the dashboard failed at 2025-11-24 00:04:10.076 due to: Page URL expected to be 're.compile('.*/web/index.php/dashboard/index')'
+Actual value: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+Call log:
+  - Expect ""to_have_url"" with timeout 10000ms
+    14 � unexpected value ""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login""
+Screenshot saved to: error_artifacts\TC0011_20251124_000410_screenshot.png
+DOM snapshot saved to: error_artifacts\TC0011_20251124_000410_snapshot.html
+Browser closed.
+--- Finished Test Case: TC0011 ---
+","SUCCESS"
+"EX0053","TC0011","playwright","2025-11-24","00:19:38.230623","Script executed successfully","Running action: Given the user is on the OrangeHRM login page at 2025-11-24 00:19:21
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-24 00:19:26
+Running action: When the user enters the username at 2025-11-24 00:19:26
+Action completed: When the user enters the username at 2025-11-24 00:19:27
+Running action: And the user enters the password at 2025-11-24 00:19:27
+Action completed: And the user enters the password at 2025-11-24 00:19:27
+Running action: And clicks the login button at 2025-11-24 00:19:27
+Action completed: And clicks the login button at 2025-11-24 00:19:27
+Running action: Then the user should be redirected to the dashboard at 2025-11-24 00:19:27
+Action 'Then the user should be redirected to the dashboard' failed at 2025-11-24 00:19:37 due to: Locator expected to be visible
+Actual value: <element(s) not found> 
+Call log:
+  - Expect ""to_be_visible"" with timeout 10000ms
+  - waiting for locator(""h6.oxd-topbar-header-breadcrumb-module:has-text(\""Dashboard\"")"")
+    - waiting for"" https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate"" navigation to finish...
+    - navigated to ""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login""
+Screenshot saved to: error_logs\TC0011_Then_the_user_should_be_redirected_to_the_dashboard_20251124_001937.png
+DOM snapshot saved to: error_logs\TC0011_Then_the_user_should_be_redirected_to_the_dashboard_20251124_001937.html
+FAILURE: Test Case TC0011 Failed at step: 'Then the user should be redirected to the dashboard'
+Execution of TC0011 was terminated due to a failure.
+Closing browser at 2025-11-24 00:19:37
+","SUCCESS"
+"EX0054","TC0011","playwright","2025-11-26","08:14:10.122779","Script executed successfully","--- Starting Test Case: TC0011 ---
+Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-26 08:13:54
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-26 08:14:05
+Running action: 'When the user enters the username' at 2025-11-26 08:14:05
+Action completed: 'When the user enters the username' at 2025-11-26 08:14:05
+Running action: 'And the user enters the password' at 2025-11-26 08:14:05
+Action completed: 'And the user enters the password' at 2025-11-26 08:14:05
+Running action: 'And clicks the login button' at 2025-11-26 08:14:05
+Action completed: 'And clicks the login button' at 2025-11-26 08:14:07
+Running action: 'Then the user should be redirected to the dashboard' at 2025-11-26 08:14:07
+Successfully redirected to the dashboard.
+Action completed: 'Then the user should be redirected to the dashboard' at 2025-11-26 08:14:08
+--- Test Case TC0011: PASSED ---
+--- Test Execution Finished for TC0011 at 2025-11-26 08:14:09 ---
+","SUCCESS"
+"EX0055","TC0011","playwright","2025-11-26","08:47:26.913962","Script executed successfully","--- Starting Test Case: TC0011 ---
+Running action: Given the user is on the OrangeHRM login page at 2025-11-26 08:47:19
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-26 08:47:23
+Running action: When the user enters the username at 2025-11-26 08:47:23
+Action completed: When the user enters the username at 2025-11-26 08:47:23
+Running action: And the user enters the password at 2025-11-26 08:47:23
+Action completed: And the user enters the password at 2025-11-26 08:47:24
+Running action: And clicks the login button at 2025-11-26 08:47:24
+Action completed: And clicks the login button at 2025-11-26 08:47:24
+Running action: Then the user should be redirected to the dashboard at 2025-11-26 08:47:24
+Verification successful: User is on the dashboard.
+Action completed: Then the user should be redirected to the dashboard at 2025-11-26 08:47:26
+Closing browser...
+--- Test Case TC0011: PASSED ---
+","SUCCESS"
+"EX0056","TC0013","playwright","2025-11-26","09:19:30.672435","Script executed successfully","--- Starting Test Case: TC0013 ---
+Running action: Given the user is on the OrangeHRM login page at 2025-11-26 09:19:23.080857
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-26 09:19:26.624548
+Running action: When the user clicks on 'Forgot your Password?' at 2025-11-26 09:19:26.624570
+Action completed: When the user clicks on 'Forgot your Password?' at 2025-11-26 09:19:27.930336
+Running action: And enters their username at 2025-11-26 09:19:27.930351
+Action completed: And enters their username at 2025-11-26 09:19:28.795852
+Running action: And clicks the 'Reset Password' button at 2025-11-26 09:19:28.795870
+Action completed: And clicks the 'Reset Password' button at 2025-11-26 09:19:29.689973
+Running action: Then a password reset link should be sent successfully at 2025-11-26 09:19:29.689991
+Successfully verified the password reset confirmation message.
+Action completed: Then a password reset link should be sent successfully at 2025-11-26 09:19:30.082032
+Test script finished successfully.
+","SUCCESS"
+"EX0057","TC0011","playwright","2025-11-26","16:02:09.283217","Script executed successfully","--- Starting Test Case: TC0011 ---
+Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-26T16:01:57.653257
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-26T16:02:06.069708
+Running action: 'When the user enters the username' at 2025-11-26T16:02:06.069731
+Action completed: 'When the user enters the username' at 2025-11-26T16:02:06.150184
+Running action: 'And the user enters the password' at 2025-11-26T16:02:06.150211
+Action completed: 'And the user enters the password' at 2025-11-26T16:02:06.169126
+Running action: 'And clicks the login button' at 2025-11-26T16:02:06.169143
+Action completed: 'And clicks the login button' at 2025-11-26T16:02:06.221916
+Running action: 'Then the user should be redirected to the dashboard' at 2025-11-26T16:02:06.221934
+Successfully logged in and redirected to the dashboard.
+Action completed: 'Then the user should be redirected to the dashboard' at 2025-11-26T16:02:08.355254
+Browser closed.
+--- Test Case: TC0011 Passed ---
+","SUCCESS"
+"EX0058","TC0011","playwright","2025-11-27","09:13:46.644778","Script executed successfully","Running action: Given the user is on the OrangeHRM login page at 2025-11-27 09:13:38
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-27 09:13:42
+Running action: When the user enters the username at 2025-11-27 09:13:42
+Action completed: When the user enters the username at 2025-11-27 09:13:43
+Running action: And the user enters the password at 2025-11-27 09:13:43
+Action completed: And the user enters the password at 2025-11-27 09:13:43
+Running action: And clicks the login button at 2025-11-27 09:13:43
+Action completed: And clicks the login button at 2025-11-27 09:13:43
+Running action: Then the user should be redirected to the dashboard at 2025-11-27 09:13:43
+Successfully verified redirection to the dashboard.
+Action completed: Then the user should be redirected to the dashboard at 2025-11-27 09:13:45
+Closing browser...
+Browser closed. Test finished.
+","SUCCESS"
+"EX0059","TC0011","playwright","2025-11-27","09:19:26.915798","Script executed successfully","Running action: Given the user is on the OrangeHRM login page at 2025-11-27 09:19:16
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-27 09:19:24
+Running action: When the user enters the username at 2025-11-27 09:19:24
+Action completed: When the user enters the username at 2025-11-27 09:19:24
+Running action: And the user enters the password at 2025-11-27 09:19:24
+Action completed: And the user enters the password at 2025-11-27 09:19:24
+Running action: And clicks the login button at 2025-11-27 09:19:24
+Action completed: And clicks the login button at 2025-11-27 09:19:24
+Running action: Then the user should be redirected to the dashboard at 2025-11-27 09:19:24
+Action completed: Then the user should be redirected to the dashboard at 2025-11-27 09:19:26
+Test Case TC0011 PASSED
+Browser closed.
+","SUCCESS"
+"EX0060","TC0012","playwright","2025-11-27","09:25:09.512434","Script exited with code 1","--- Starting Test Case: TC0012 ---
+Running action: Given the user is on the OrangeHRM login page at 2025-11-27 09:24:55
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-27 09:25:03
+Running action: When the user enters an invalid username at 2025-11-27 09:25:03
+Action completed: When the user enters an invalid username at 2025-11-27 09:25:03
+Running action: And clicks the login button at 2025-11-27 09:25:03
+Action completed: And clicks the login button at 2025-11-27 09:25:03
+Running action: Then an 'Invalid credentials' error message should be displayed at 2025-11-27 09:25:03
+Browser closed at 2025-11-27 09:25:08.
+Traceback (most recent call last):
+  File ""C:\Users\R_TEJA\AppData\Local\Temp\tmpfxk1u57f.py"", line 107, in <module>
+    main()
+    ~~~~^^
+  File ""C:\Users\R_TEJA\AppData\Local\Temp\tmpfxk1u57f.py"", line 91, in main
+    expect(error_message_locator).to_be_visible(timeout=5000)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File ""C:\Users\R_TEJA\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\sync_api\_generated.py"", line 20424, in to_be_visible
+    self._sync(self._impl_obj.to_be_visible(visible=visible, timeout=timeout))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\R_TEJA\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_sync_base.py"", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File ""C:\Users\R_TEJA\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_assertions.py"", line 763, in to_be_visible
+    await self._expect_impl(
+    ...<5 lines>...
+    )
+  File ""C:\Users\R_TEJA\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_assertions.py"", line 83, in _expect_impl
+    raise AssertionError(
+        f""{out_message}\nActual value: {actual} {format_call_log(result.get('log'))}""
+    )
+AssertionError: Locator expected to be visible
+Actual value: <element(s) not found> 
+Call log:
+  - Expect ""to_be_visible"" with timeout 5000ms
+  - waiting for locator("".oxd-alert-content-text"")
+","FAILED"
+"EX0061","TC0011","playwright","2025-11-27","09:34:02.749474","Script executed successfully","--- Starting Test Case: TC0011 ---
+Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-27 09:33:50
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-27 09:33:58
+Running action: 'When the user enters the username' at 2025-11-27 09:33:58
+Action completed: 'When the user enters the username' at 2025-11-27 09:33:59
+Running action: 'And the user enters the password' at 2025-11-27 09:33:59
+Action completed: 'And the user enters the password' at 2025-11-27 09:33:59
+Running action: 'And clicks the login button' at 2025-11-27 09:33:59
+Action completed: 'And clicks the login button' at 2025-11-27 09:33:59
+Running action: 'Then the user should be redirected to the dashboard' at 2025-11-27 09:33:59
+Action completed: 'Then the user should be redirected to the dashboard' at 2025-11-27 09:34:01
+--- Test Case TC0011: PASSED ---
+Browser closed.
+","success"
+"EX0062","TC0011","playwright","2025-11-27","09:54:35.296215","Script executed successfully","Running action: Given the user is on the OrangeHRM login page at 2025-11-27 09:54:21
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-27 09:54:31
+Running action: When the user enters the username at 2025-11-27 09:54:31
+Action completed: When the user enters the username at 2025-11-27 09:54:31
+Running action: And the user enters the password at 2025-11-27 09:54:31
+Action completed: And the user enters the password at 2025-11-27 09:54:31
+Running action: And clicks the login button at 2025-11-27 09:54:31
+Action completed: And clicks the login button at 2025-11-27 09:54:32
+Running action: Then the user should be redirected to the dashboard at 2025-11-27 09:54:32
+Action completed: Then the user should be redirected to the dashboard at 2025-11-27 09:54:33
+--- Test Case TC0011 PASSED ---
+","SUCCESS"
+"EX0063","TC0012","playwright","2025-11-27","10:52:07.851322","[AUTO-HEALED] Script failed even after healing","Running action: Given the user is on the OrangeHRM login page at 2025-11-27 10:51:57
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-27 10:52:04
+Running action: When the user enters an invalid username at 2025-11-27 10:52:04
+Action completed: When the user enters an invalid username at 2025-11-27 10:52:04
+Running action: And clicks the login button at 2025-11-27 10:52:04
+Action completed: And clicks the login button at 2025-11-27 10:52:05
+Running action: Then an 'Invalid credentials' error message should be displayed at 2025-11-27 10:52:05
+Assertion successful: 'Invalid credentials' error message is visible.
+Action completed: Then an 'Invalid credentials' error message should be displayed at 2025-11-27 10:52:06
+---- Test Case TC0012 Passed Successfully ----
+Traceback (most recent call last):
+  File ""C:\Users\R_TEJA\AppData\Local\Temp\tmpxd4xd26l.py"", line 133, in <module>
+    run_test_tc0012()
+    ~~~~~~~~~~~~~~~^^
+  File ""C:\Users\R_TEJA\AppData\Local\Temp\tmpxd4xd26l.py"", line 125, in run_test_tc0012
+    page.close()
+    ~~~~~~~~~~^^
+  File ""C:\Users\R_TEJA\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\sync_api\_generated.py"", line 9841, in close
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.close(runBeforeUnload=run_before_unload, reason=reason)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File ""C:\Users\R_TEJA\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_sync_base.py"", line 104, in _sync
+    raise Error(""Event loop is closed! Is Playwright already stopped?"")
+playwright._impl._errors.Error: Event loop is closed! Is Playwright already stopped?
+","fail"
+"EX0064","TC0011","playwright","2025-11-27","11:21:48.339003","Script executed successfully","Running action: Navigate to login page at 2025-11-27 11:21:37
+Action completed: Navigate to login page at 2025-11-27 11:21:44
+Running action: Enter username at 2025-11-27 11:21:44
+Action completed: Enter username at 2025-11-27 11:21:44
+Running action: Enter password at 2025-11-27 11:21:44
+Action completed: Enter password at 2025-11-27 11:21:44
+Running action: Click login button at 2025-11-27 11:21:44
+Action completed: Click login button at 2025-11-27 11:21:44
+Running action: Verify dashboard redirection at 2025-11-27 11:21:44
+Successfully redirected to the dashboard.
+Action completed: Verify dashboard redirection at 2025-11-27 11:21:47
+--- Test script for TC0011 finished at 2025-11-27 11:21:47 ---
+","success"
+"EX0065","TC0011","playwright","2025-11-27","11:50:07.333798","Script executed successfully","--- Starting Test Case TC0011 ---
+Running action: Given the user is on the OrangeHRM login page at 2025-11-27 11:49:50
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-27 11:49:54
+Running action: When the user enters the username at 2025-11-27 11:49:54
+Action completed: When the user enters the username at 2025-11-27 11:49:55
+Running action: And the user enters the password at 2025-11-27 11:49:55
+Action completed: And the user enters the password at 2025-11-27 11:49:55
+Running action: And clicks the login button at 2025-11-27 11:49:55
+Action completed: And clicks the login button at 2025-11-27 11:49:55
+Running action: Then the user should be redirected to the dashboard at 2025-11-27 11:49:55
+Action 'Then the user should be redirected to the dashboard' failed at 2025-11-27 11:50:05 due to: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to ""**/dashboard/index"" until 'load'
+  navigated to ""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login""
+============================================================
+Saved screenshot to: error_reports\screenshot_VerifyDashboard_20251127_115005.png
+Saved DOM snapshot to: error_reports\dom_VerifyDashboard_20251127_115005.html
+TEST FAILED: User was not redirected to the dashboard.
+An unexpected error occurred during the test execution: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to ""**/dashboard/index"" until 'load'
+  navigated to ""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login""
+============================================================
+Closing browser...
+Browser closed.
+--- Test Case TC0011 Execution Finished ---
+","success"
+"EX0066","TC0011","playwright","2025-11-27","19:31:43.761714","Script executed successfully","--- Starting Test Case TC0011 ---
+Running action: Given the user is on the OrangeHRM login page at 2025-11-27 19:31:20
+Action completed: Given the user is on the OrangeHRM login page at 2025-11-27 19:31:37
+Running action: When the user enters the username at 2025-11-27 19:31:37
+Action completed: When the user enters the username at 2025-11-27 19:31:37
+Running action: And the user enters the password at 2025-11-27 19:31:37
+Action completed: And the user enters the password at 2025-11-27 19:31:37
+Running action: And clicks the login button at 2025-11-27 19:31:37
+Action completed: And clicks the login button at 2025-11-27 19:31:41
+Running action: Then the user should be redirected to the dashboard at 2025-11-27 19:31:41
+Action completed: Then the user should be redirected to the dashboard at 2025-11-27 19:31:42
+--- Test Case TC0011 Passed ---
+","success"
+"EX0067","TC0011","playwright","2025-11-27","20:22:54.685307","Script executed successfully","--- Starting Test Case: TC0011 ---
+Running action: 'Given the user is on the OrangeHRM login page' at 2025-11-27 20:22:37
+Action completed: 'Given the user is on the OrangeHRM login page' at 2025-11-27 20:22:51
+Running action: 'When the user enters the username' at 2025-11-27 20:22:51
+Action completed: 'When the user enters the username' at 2025-11-27 20:22:51
+Running action: 'And the user enters the password' at 2025-11-27 20:22:51
+Action completed: 'And the user enters the password' at 2025-11-27 20:22:51
+Running action: 'And clicks the login button' at 2025-11-27 20:22:51
+Action completed: 'And clicks the login button' at 2025-11-27 20:22:52
+Running action: 'Then the user should be redirected to the dashboard' at 2025-11-27 20:22:52
+Action completed: 'Then the user should be redirected to the dashboard' at 2025-11-27 20:22:52
+--- Test Case TC0011 PASSED ---
+Browser closed.
+","success"
